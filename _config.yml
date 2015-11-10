@@ -3,7 +3,7 @@ title: MaxCloth.IND Blog
 header-img: img/home-bg.jpg
 email: info@maxcloth.ga
 description: "MaxCloth.IND :: Pimp up your cloth!"
-baseurl: "/blog"
+baseurl: "/"
 url: "http://blog.maxcloth.ga"
 twitter_username: maxcloth
 github_username:  maxcloth
